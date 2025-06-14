@@ -45,3 +45,7 @@ AniSpex is one of our open-source educational tools to encourage responsible and
 
 - **Forked from**: [1Anime's V2 Open Source Anime Site](https://github.com/1Anime)  
 - Special thanks to the original authors for their open-source contribution, which made this educational project possible.
+
+## 📝 Note
+
+- If there are no projects in this organization, it has not revamped nor v2 open source is released
